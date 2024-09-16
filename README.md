@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> Meu nome é Gilson Machado</h2>
+<h2 align="left">Meu nome é Gilson Machado</h2>
 
 ###
 
