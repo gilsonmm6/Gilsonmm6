@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🔭 Atualmente estou trabalhando em um projeto de melhoria de controle e análise de pedido e produção.<br>- 🌱 Atualmente estou aprendendo sobre estatística e apronfundando meus conhecimentos em estatística. <br>- 😄 Estou procurando colaborar em projetos que me desafiem no crescimento profissional.<br>- 📫 Como entrar em contato comigo: gilson.machado.monteiro@gmail.com</p>
+<p align="left">- 🔭 Atualmente estou trabalhando em um projeto de melhoria de controle e análise de pedido e produção.<br>- 🌱 Atualmente estou aprendendo sobre estatística e apronfundando meus conhecimentos. <br>- 😄 Estou procurando colaborar em projetos que me desafiem no crescimento profissional.<br>- 📫 Como entrar em contato comigo: gilson.machado.monteiro@gmail.com</p>
 
 ###
 
