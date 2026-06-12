@@ -1,47 +1,93 @@
-<h1 align="left">Olá👋 desejo que você esteja bem!</h1>
+<div align="center">
 
-###
+# Olá, sou Gilson Machado 👋
 
-<h2 align="left">Me chamo Gilson Machado</h2>
+### Analista de Business Intelligence & Cientista de Dados
 
-###
+*Belém, Pará · Brasil*
 
-<h2 align="left">Sobre mim</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gilsonmachadomonteiro)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilson.machado.monteiro@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gilsonmm6)
 
-###
-
-<p align="left">- 🔭 Atualmente estou trabalhando em um projeto de melhoria de controle e análise de pedido e produção.<br>- 🌱 Atualmente estou aprendendo sobre estatística e apronfundando meus conhecimentos. <br>- 😄 Estou procurando colaborar em projetos que me desafiem no crescimento profissional.<br>- 📫 Como entrar em contato comigo: gilson.machado.monteiro@gmail.com</p>
-
-###
-
-<h2 align="left">Eu codifico com</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40" alt="neo4j logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+---
+
+## Sobre mim
+
+- 🏢 Analista de BI na **Controladoria do Grupo Mônaco** — dashboards estratégicos, ETL/ELT e Data Warehouse em Power BI + Python + SQL + Oracle
+- 🎓 Pós-graduando em **Estatística Aplicada à Ciência de Dados** — PUC Minas (previsão Jun/2026)
+- 🎓 Bacharel em **Ciência de Dados** — FACI Wyden (2025)
+- 📊 Reduzi o ciclo de fechamento gerencial de **5 para 2 dias úteis** com dashboards integrados em Power BI
+- 🔬 Interesse em **inferência bayesiana, modelos de risco de crédito e ML aplicado a finanças**
+- 🚀 Construindo portfólio público em Data Science e IA ética
+
+---
+
+## 🛠️ Stack técnica
+
+**Linguagens & Análise**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+**Machine Learning & Estatística**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyMC](https://img.shields.io/badge/PyMC-3C3489?style=flat-square&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+**BI & Visualização**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=flat-square)
+![seaborn](https://img.shields.io/badge/seaborn-4C72B0?style=flat-square)
+
+**Dados & Cloud**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+
+---
+
+## 🏅 Certificações
+
+| Certificação | Emissor | Ano |
+|---|---|---|
+| Machine Learning Model Development | Databricks | 2026 |
+| Academy Accreditation – Generative AI Fundamentals | Databricks | 2026 |
+
+---
+
+## 📂 Portfólio de projetos
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [🎯 Inferência Bayesiana — A/B Marketing](https://github.com/gilsonmm6/bayesian-ab-marketing) | ROPE, Bayes Factor, parada adaptativa, modelo hierárquico. MAPE 100% posterior | PyMC · ArviZ · Python |
+| [⚖️ Fairness no COMPAS](https://github.com/gilsonmm6/compas-fairness-analysis) | Viés racial em algoritmo judicial. Equalized Odds, Paridade Demográfica | SciPy · seaborn · Python |
+| [🚗 Previsão TSLA com LSTM](https://github.com/gilsonmm6/tesla-lstm-forecast) | Previsão de 30 dias, MAPE 4.94%, sem data leakage | TensorFlow · Keras · Python |
+| [📊 Teste A/B Frequentista](https://github.com/gilsonmm6/ab-testing-frequentist) | t-test, Cohen's d, taxa de conversão, ROI, CPC | SciPy · pandas · Python |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Gilson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gilsonmm6&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonmm6&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Dados sem contexto são apenas números. Com contexto, são decisões."*
+
+</div>
