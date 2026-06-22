@@ -2,7 +2,7 @@
 
 # Olá, sou Gilson Machado 👋
 
-### Analista de Business Intelligence & Cientista de Dados
+### Cientista de Dados & Analista de Business Intelligence
 
 *Brasil*
 
