@@ -17,7 +17,7 @@
 ## Sobre mim
 
 - 🏢 Analista de BI na **Controladoria do Grupo Mônaco** — dashboards estratégicos, ETL/ELT e Data Warehouse em Power BI + Python + SQL + Oracle
-- 🎓 Pós-graduando em **Estatística Aplicada à Ciência de Dados** — PUC Minas (previsão Jun/2026)
+- 🎓 Especialista em **Estatística para Ciência de Dados** — PUC Minas (2026)
 - 🎓 Bacharel em **Ciência de Dados** — FACI Wyden (2025)
 - 📊 Reduzi o ciclo de fechamento gerencial de **5 para 2 dias úteis** com dashboards integrados em Power BI
 - 🔬 Interesse em **inferência bayesiana, modelos de risco de crédito e ML aplicado a finanças**
@@ -69,8 +69,11 @@
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [🏦 Risco de Crédito — Cox e IFRS 9](https://github.com/gilsonmm6/credit-risk-survival-ifrs9) | Análise de sobrevivência em 716 companhias abertas da CVM. AUC 0,972 fora da amostra sob corte temporal estrito | lifelines · scikit-learn · Python |
-| [🎯 Inferência Bayesiana — A/B Marketing](https://github.com/gilsonmm6/bayesian-ab-marketing) | ROPE, Bayes Factor, parada adaptativa, modelo hierárquico. MAPE 100% posterior | PyMC · ArviZ · Python |
+| [🚦 Segurança Viária — PRF Pará](https://github.com/gilsonmm6/analise-acidentes-prf-para) | Regressão ordinal e GLMM com ICC de 14% entre rodovias. XGBoost calibrado por Platt Scaling, AUC 0,73 em validação temporal | statsmodels · XGBoost · SHAP |
+| [🎯 Inferência Bayesiana — A/B Marketing](https://github.com/gilsonmm6/bayesian-ab-marketing) | ROPE, Bayes Factor e parada adaptativa. Decisão com 15k observações contra 588k do desenho frequentista | PyMC · ArviZ · Python |
+| [📊 TRI — Calibração Bayesiana](https://github.com/gilsonmm6/tri-irt-bayesian) | Rasch (1PL) vs 2PL em 239 respondentes e 60 itens. Δelpd 86,97 no LOO; multidimensionalidade via PCA e Yen's Q3 | PyMC · ArviZ · Python |
 | [⚖️ Fairness no COMPAS](https://github.com/gilsonmm6/compas-fairness-analysis) | Viés racial em algoritmo judicial. Equalized Odds, Paridade Demográfica | SciPy · seaborn · Python |
+| [🎮 Dilema do Prisioneiro — RL Multiagente](https://github.com/gilsonmm6/iterated-prisoners-dilemma-marl) | Q-Learning multiagente em 5 experimentos fatoriais, n=30 sementes. Kruskal-Wallis com correção de Bonferroni | NumPy · SciPy · Python |
 | [🚗 Previsão TSLA com LSTM](https://github.com/gilsonmm6/tesla-lstm-forecast) | Previsão de 30 dias, MAPE 4.94%, sem data leakage | TensorFlow · Keras · Python |
 | [📊 Teste A/B Frequentista](https://github.com/gilsonmm6/ab-testing-frequentist) | t-test, Cohen's d, taxa de conversão, ROI, CPC | SciPy · pandas · Python |
 
