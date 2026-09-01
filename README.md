@@ -18,7 +18,7 @@
 
 - 🏢 Analista de BI na **Controladoria do Grupo Mônaco** — dashboards estratégicos, ETL/ELT e Data Warehouse em Power BI + Python + SQL + Oracle
 - 🎓 Especialista em **Estatística para Ciência de Dados** — PUC Minas (2026)
-- 🎓 Bacharel em **Ciência de Dados** — FACI Wyden (2025)
+- 🎓 Tecnólogo em **Ciência de Dados** — Centro Universitário FAVIP Wyden (2025)
 - 📊 Reduzi o ciclo de fechamento gerencial de **5 para 2 dias úteis** com dashboards integrados em Power BI
 - 🔬 Interesse em **inferência bayesiana, modelos de risco de crédito e ML aplicado a finanças**
 - 🚀 Construindo portfólio público em Data Science e IA ética
