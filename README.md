@@ -68,6 +68,7 @@
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| [🏦 Risco de Crédito — Cox e IFRS 9](https://github.com/gilsonmm6/credit-risk-survival-ifrs9) | Análise de sobrevivência em 716 companhias abertas da CVM. AUC 0,972 fora da amostra sob corte temporal estrito | lifelines · scikit-learn · Python |
 | [🎯 Inferência Bayesiana — A/B Marketing](https://github.com/gilsonmm6/bayesian-ab-marketing) | ROPE, Bayes Factor, parada adaptativa, modelo hierárquico. MAPE 100% posterior | PyMC · ArviZ · Python |
 | [⚖️ Fairness no COMPAS](https://github.com/gilsonmm6/compas-fairness-analysis) | Viés racial em algoritmo judicial. Equalized Odds, Paridade Demográfica | SciPy · seaborn · Python |
 | [🚗 Previsão TSLA com LSTM](https://github.com/gilsonmm6/tesla-lstm-forecast) | Previsão de 30 dias, MAPE 4.94%, sem data leakage | TensorFlow · Keras · Python |
